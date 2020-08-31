@@ -1,12 +1,14 @@
-#TWP060_Teste_de_Mesa_e_Entrada_de_Dados
+#nome do tutorial: TWP060_Teste_de_Mesa_e_Entrada_de_Dados
+#link do tutorial: https://www.youtube.com/watch?v=mZt2oBlk7OY&t=3s
+#site para análise passo a passo da execução do código, passado no video: http://pythontutor.com
 
 divida = 0
 compra = 10.59
 divida = divida + compra
-print(divida)
+print('primeira dívida: R$',divida)
 compra = 50.34
 divida = divida + compra
-print(divida%. 2f)
+print('segunda dívida: R$',divida)
 compra = 4.50
 divida = divida + compra
-print(divida)
+print('terceira dívida: R$',divida)
