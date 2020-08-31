@@ -28,10 +28,23 @@
 # print(n1 + n2)    
 
 #in float exemple:
-n1 = float(input('N1: '))
-n2 = float(input('N2: '))
-print(n1 + n2)
+# n1 = float(input('N1: '))
+# n2 = float(input('N2: '))
+# print(n1 + n2)
 
 #lista de exercicios:
 #bit.ly/PPZPythonExercicios
 #tinyurl.com/PPZPythonExercicios
+
+#primeiro exercicio (o mesmo do exemplo do tutorial) | first exercise(the same of the tutorial)
+# n1 = int(input('1º número:'))
+# n2 = int(input('2º número:'))
+# print(n1+n2)
+
+#segundo exercicio | second exercise
+m = int(input('Metros:'))
+print(f'Milímetros:{m*1000}')
+
+#terceiro exercício | third exercise
+d = int(input('Dias:'))
+h = int(imp)
