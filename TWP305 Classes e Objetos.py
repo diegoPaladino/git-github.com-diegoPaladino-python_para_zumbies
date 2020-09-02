@@ -34,20 +34,35 @@
 # print(f'Milímetros:{m*1000}')
 
 #terceiro exercício | third exercise
-d = int(input('Dias:'))
-h = int(input('Horas:'))
-m = int(input('Minutos:'))
-s = int(input('Segundos:'))
+# d = int(input('Dias:'))
+# h = int(input('Horas:'))
+# m = int(input('Minutos:'))
+# s = int(input('Segundos:'))
 
-total = d*24*60*60 + h*60*60 + m*60 + s
-print(total)
+# total = d*24*60*60 + h*60*60 + m*60 + s
+# print(total)
 
 #_________________________________________________________________________________________________
 #quarto exercício | fourth execise
-s = float(input('Salário:'))
-p = float(input('Aumento%:'))
-aumento = s * p/100
-novo = s + aumento
-print(f'Aumento: R$ {aumento:.2f}')
-print(f'Novo salário: R$ {novo:.2f}')
-]
+# s = float(input('Salário:'))
+# p = float(input('Aumento%:'))
+# aumento = s * p/100
+# novo = s + aumento
+# print(f'Aumento: R$ {aumento:.2f}')
+# print(f'Novo salário: R$ {novo:.2f}')
+
+#_________________________________________________________________________________________________
+#quinto exercício | fifth execise
+# m = float(input('Preço:'))
+# p = float(input('Desconto%:'))
+# desconto = m * p / 100
+# novo = m - desconto
+# print(f'Desconto: R${desconto:.2f}')
+# print(f'Preço a pagar: {novo:.2f}')
+
+#_________________________________________________________________________________________________
+#sexto exercício | sixth execise
+d = float(input('Distância km:'))
+v = float(input('Vel. média km/h:'))
+t = d/v
+print(f'Tempo: {t:.1f}')
