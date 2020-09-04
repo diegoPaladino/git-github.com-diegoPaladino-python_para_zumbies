@@ -23,6 +23,8 @@
 #bit.ly/PPZPythonExercicios
 #tinyurl.com/PPZPythonExercicios
 
+#_________________________________________________________________________________________________
+
 #primeiro exercicio (o mesmo do exemplo do tutorial) | first exercise(the same of the tutorial)
 # n1 = int(input('1º número:'))
 # n2 = int(input('2º número:'))
@@ -62,7 +64,16 @@
 
 #_________________________________________________________________________________________________
 #sexto exercício | sixth execise
-d = float(input('Distância km:'))
-v = float(input('Vel. média km/h:'))
-t = d/v
-print(f'Tempo: {t:.1f}')
+# d = float(input('Distância km:'))
+# v = float(input('Vel. média km/h:'))
+# t = d/v
+# print(f'Tempo: {t:.1f}')
+
+#_________________________________________________________________________________________________
+#sétimo exercício | seventh execise
+c=float(input('Celsius: '))
+f = 9*c/5 + 32
+print(f'{f:.2f} Fahrenheit')
+
+#_________________________________________________________________________________________________
+#oitavo exercício | eighth execise
