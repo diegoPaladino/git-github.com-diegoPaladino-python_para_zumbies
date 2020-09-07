@@ -77,6 +77,22 @@
 
 #_________________________________________________________________________________________________
 #oitavo exercício | eighth execise
-f = float(input('Fahrenheit:'))
-c = (f-32)*5/9
-print(f'{c:.2f} Celsius')
+# f = float(input('Fahrenheit:'))
+# c = (f-32)*5/9
+# print(f'{c:.2f} Celsius')
+
+#_________________________________________________________________________________________________
+#nono exercício | nineth execise
+# km = float(input('Km rodados: '))
+# dias = int(input('Dias: '))
+# preco = 60*dias + 0.15*km
+# print(f'R$ {preco:.2f}')
+
+#_________________________________________________________________________________________________
+#décimo exercício | tenth execise
+#fazendo uma regra de três
+cigarros = int(input('Cigarros dia: '))
+anos = int(input('Anos fumados: '))
+total_cigarros = anos * 365 * cigarros
+dias = total_cigarros / 144
+print(f'Voce perdeu{dias:.1f}dias')
