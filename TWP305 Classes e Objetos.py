@@ -91,8 +91,12 @@
 #_________________________________________________________________________________________________
 #décimo exercício | tenth execise
 #fazendo uma regra de três
-cigarros = int(input('Cigarros dia: '))
-anos = int(input('Anos fumados: '))
-total_cigarros = anos * 365 * cigarros
-dias = total_cigarros / 144
-print(f'Voce perdeu{dias:.1f}dias')
+# cigarros = int(input('Cigarros dia: '))
+# anos = int(input('Anos fumados: '))
+# total_cigarros = anos * 365 * cigarros
+# dias = total_cigarros / 144
+# print(f'Voce perdeu {dias:.1f} dias')
+
+#_________________________________________________________________________________________________
+#décimo primeiro exercício | eleventh execise
+print(len(str(2**1000000)))
