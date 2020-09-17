@@ -1,0 +1,2 @@
+#TWP070_Comentários_e_resolução_da_I_Lista_de_Exercícios
+#link_of_tutorial:https://www.youtube.com/watch?v=IZwUmam6K5c&list=PLUukMN0DTKCtbzhbYe2jdF4cr8MOWClXc&index=8

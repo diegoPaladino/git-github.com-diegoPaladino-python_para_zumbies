@@ -15,3 +15,4 @@ print('terceira dívida: R$',divida)
 
 #testado no pythontutor, perfeita execução passo a passo. Super ferramenta!
 
+#
